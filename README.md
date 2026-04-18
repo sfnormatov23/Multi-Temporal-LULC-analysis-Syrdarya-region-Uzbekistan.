@@ -8,7 +8,7 @@ The success of any geospatial analysis depends on a clearly defined study area. 
 
 ### 🗺️ Study Area Visualization
 <p align="center">
-  <img src="[./images/image_e158ea.jpg](https://github.com/sfnormatov23/Multi-Temporal-LULC-analysis-Syrdarya-region-Uzbekistan./blob/main/images/Study%20Area.jpg)" width="600" alt="Syrdarya Study Area Map">
+<img src="images/image_e158ea.jpg" width="600" alt="Syrdarya Study Area Map">
   <br>
   <b>Figure 1. Administrative boundary of Syrdarya region and detailed urban layout of Gulistan city.</b>
 </p>
