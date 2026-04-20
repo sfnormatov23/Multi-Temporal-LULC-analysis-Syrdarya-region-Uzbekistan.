@@ -125,7 +125,7 @@ This section focuses on identifying the exact geographic locations where land co
 
 ### 🗺️ Land Transformation Hotspots
 <p align="center">
-  <img src="images/intersect.jpg" width="100%" alt="Intersect Analysis Map">
+  <img src="images/LULC_Change_Detection_Intersect.jpg" width="100%" alt="Intersect Analysis Map">
   <br>
   <b>Figure 4. Geographic distribution of land cover change hotspots in the Syrdarya Region (2017–2024).</b>
 </p>
