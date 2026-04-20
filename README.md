@@ -35,3 +35,39 @@ According to the research, the Syrdarya region represents a critical **"socio-ec
 * **Socioeconomics:** Proximity to **Tashkent (the capital)** drives intense socioeconomic pressure on land resources. 
 
 This map establishes the spatial **"Stage"** where we analyze how every hectare of land has transformed over the last 8 years.
+
+## 🛰️ Section 2: Spatio-Temporal LULC Dynamics (2017–2024)
+
+This section presents the core findings of the land-use classification. By leveraging multi-temporal **Sentinel-2** satellite imagery and **Esri LULC** datasets, we mapped the evolution of the Syrdarya region over an eight-year period.
+
+---
+
+### 🗺️ Multi-Year Land Cover Comparison
+<p align="center">
+  <img src="images/SYRDARYA1.jpg" width="900" alt="LULC Dynamics 2017-2024">
+  <br>
+  <b>Figure 2. Spatio-temporal distribution of LULC classes in Syrdarya Region (2017, 2020, 2022, and 2024).</b>
+</p>
+
+---
+
+### 🔍 Classification Methodology
+To ensure high thematic accuracy, the following workflow was implemented in **ArcGIS Pro**:
+
+1.  **Data Source:** High-resolution (10m) **Sentinel-2** imagery was utilized for its superior spectral bands, essential for distinguishing between subtle land cover types.
+2.  **Classification Schema:** We identified 7 primary classes:
+    * 🔴 **Built Area:** Residential, industrial, and infrastructure zones.
+    * 🌾 **Crops:** Active agricultural lands and irrigated fields.
+    * 🌿 **Rangeland:** Natural grasslands and shrubs.
+    * 🌳 **Trees:** Orchards and forested areas.
+    * 💧 **Water:** Rivers (Syr Darya), canals, and reservoirs.
+    * 🌱 **Flooded Vegetation:** Wetlands and seasonal floodplains.
+    * 🏜️ **Bare Ground:** Exposed soil and non-vegetated areas.
+3.  **Accuracy Assessment:** Post-classification cleaning was performed to remove "salt-and-pepper" noise, ensuring the maps reflect real-world geographical patterns.
+
+### 📈 Key Visual Observations
+* **Urban Sprawl (Built Area):** A clear intensification of red pixels is visible around the central and southern districts. This confirms the **17.6% growth** in urban footprint mentioned in our statistical analysis.
+* **Agricultural Shift:** While **Crops** remain the dominant class (occupying the majority of the map), the spatial distribution shows fragmentation, especially in areas transitioning into built environments or rangelands.
+* **Hydrological Fluctuations:** The **Water** and **Flooded Vegetation** classes show dynamic shifts along the Syr Darya riverbanks, reflecting seasonal variations and regional water management policies during the study period.
+
+> **Scientific Insight:** The use of the **Post-Classification Change Detection** method allows us to not only see *that* change happened but specifically *where* and *to what extent* the land was transformed.
