@@ -191,9 +191,9 @@ Based on the multi-temporal analysis of **Sentinel-2** imagery and geoprocessing
 ---
 ## 👨‍💻 Developed by
 **Sirojiddin Normatov Fazliddin ugli**
-* 🎓 **Student** at Tashkent State Technical University (TSTU)
-* 🛰️ **Specialist** at [Uzcosmos Agency](https://uzspace.uz/uz)
-* 📍 **Focus:** LULC Analysis & GIS Mapping
+ **Student** at Tashkent State Technical University (TSTU)
+ **Specialist** at [Uzcosmos Agency](https://uzspace.uz/uz)
+ **Focus:** LULC Analysis & GIS Mapping
 ### 🌐 Contact
 [![Telegram](https://img.shields.io/badge/Telegram-Personal-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sinofa23)
 [![Email](https://img.shields.io/badge/Email-sf.normatov23@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sf.normatov23@gmail.com)
