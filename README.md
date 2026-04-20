@@ -34,7 +34,7 @@ The map above was developed using **ArcGIS Pro** to establish the spatial baseli
 According to the research, the Syrdarya region represents a critical **"socio-ecological laboratory."** * **Hydrology:** The presence of the Syr Darya river provides complex hydrological dynamics.
 * **Socioeconomics:** Proximity to **Tashkent (the capital)** drives intense socioeconomic pressure on land resources. 
 
-This map establishes the spatial **"Stage"** where we analyze how every hectare of land has transformed over the last 8 years.
+> This map establishes the spatial **"Stage"** where we analyze how every hectare of land has transformed over the last 8 years.
 
 ## 🛰️ Section 2: Spatio-Temporal LULC Dynamics (2017–2024)
 
@@ -44,7 +44,7 @@ This section presents the core findings of the land-use classification. By lever
 
 ### 🗺️ Multi-Year Land Cover Comparison
 <p align="center">
-  <img src="images/SYRDARYA1.jpg" width="900" alt="LULC Dynamics 2017-2024">
+  <img src="images/SYRDARYA1.jpg" width="600" alt="LULC Dynamics 2017-2024">
   <br>
   <b>Figure 2. Spatio-temporal distribution of LULC classes in Syrdarya Region (2017, 2020, 2022, and 2024).</b>
 </p>
