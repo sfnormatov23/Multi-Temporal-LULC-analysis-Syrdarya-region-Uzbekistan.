@@ -8,7 +8,7 @@ The success of any geospatial analysis depends on a clearly defined study area. 
 
 ### 🗺️ Study Area Visualization
 <p align="center">
-<img src="images/Study%20Area.jpg" width="600" alt="Syrdarya Study Area Map">
+<img src="images/Study%20Area.jpg" width="800" alt="Syrdarya Study Area Map">
   <br>
   <b>Figure 1. Administrative boundary of Syrdarya region and detailed urban layout of Gulistan city.</b>
 </p>
@@ -44,7 +44,7 @@ This section presents the core findings of the land-use classification. By lever
 
 ### 🗺️ Multi-Year Land Cover Comparison
 <p align="center">
-  <img src="images/SYRDARYA1.jpg" width="600" alt="LULC Dynamics 2017-2024">
+  <img src="images/SYRDARYA1.jpg" width="800" alt="LULC Dynamics 2017-2024">
   <br>
   <b>Figure 2. Spatio-temporal distribution of LULC classes in Syrdarya Region (2017, 2020, 2022, and 2024).</b>
 </p>
@@ -81,7 +81,7 @@ While visual maps provide a spatial overview, quantitative data is essential for
 
 ### 📉 LULC Class Distribution and Trends
 <p align="center">
-<img src="images/LULC_Statistical_Analysis_Chart.jpg" width="600">
+<img src="images/LULC_Statistical_Analysis_Chart.jpg" width="800">
   <br>
   <b>Figure 3. Comparative statistical distribution of land cover areas (in hectares) for 2017 and 2024.</b>
 </p>
