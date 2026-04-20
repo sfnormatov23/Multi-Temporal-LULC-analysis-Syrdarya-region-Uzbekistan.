@@ -1,6 +1,6 @@
-# 🛰️ Spatio-Temporal Analysis of LULC: Syrdarya Region (2017–2024)
+# Spatio-Temporal Analysis of LULC: Syrdarya Region (2017–2024)
 
-## 📍 Section 1: Study Area and Geographic Setting
+## Study Area and Geographic Setting
 
 The success of any geospatial analysis depends on a clearly defined study area. For this research, the **Syrdarya Region** of Uzbekistan was selected due to its unique transition from a traditional agricultural hub to a rapidly urbanizing industrial zone.
 
@@ -36,7 +36,7 @@ According to the research, the Syrdarya region represents a critical **"socio-ec
 
 > This map establishes the spatial **"Stage"** where we analyze how every hectare of land has transformed over the last 8 years.
 
-## 🛰️ Section 2: Spatio-Temporal LULC Dynamics (2017–2024)
+## Spatio-Temporal LULC Dynamics (2017–2024)
 
 This section presents the core findings of the land-use classification. By leveraging multi-temporal **Sentinel-2** satellite imagery and **Esri LULC** datasets, we mapped the evolution of the Syrdarya region over an eight-year period.
 
@@ -73,7 +73,7 @@ To ensure high thematic accuracy, the following workflow was implemented in **Ar
 > **Scientific Insight:** The use of the **Post-Classification Change Detection** method allows us to not only see *that* change happened but specifically *where* and *to what extent* the land was transformed.
 
 
-## 📊 Section 3: Quantitative Statistical Analysis
+## Quantitative Statistical Analysis
 
 While visual maps provide a spatial overview, quantitative data is essential for understanding the precise magnitude of land cover transformations. This section breaks down the numerical shifts across all 7 LULC classes between **2017 and 2024**.
 
@@ -117,7 +117,7 @@ Based on the geoprocessing results from **ArcGIS Pro**, the following table summ
 > **Conclusion:** The quantitative data confirms that the Syrdarya region is transitioning from a purely agrarian landscape to a mixed urban-industrial region. This shift requires 80% faster monitoring cycles, which is now possible thanks to the **Sentinel-2 pipeline** established in this research.
 
 
-## 📍 Section 4: Spatial Intersect Analysis (Change Hotspots)
+## Spatial Intersect Analysis (Change Hotspots)
 
 This section focuses on identifying the exact geographic locations where land cover transitions were most intense. By using the **Intersect** tool in ArcGIS Pro, we overlaid the 2017 and 2024 maps to isolate areas of "Permanent Change."
 
@@ -149,7 +149,7 @@ The intersect analysis allowed us to filter out stable land and focus specifical
 > **Scientific Significance:** While previous sections showed *what* changed, this Intersect analysis pinpointed the exact **GPS coordinates** of the change, making this research highly actionable for urban planners.
 
 
-## 🔄 Section 5: Land Transformation Dynamics (Sankey Flow)
+## Land Transformation Dynamics (Sankey Flow)
 
 The final stage of our spatial analysis involves tracing the "life cycle" of land categories. Using a **Sankey Diagram**, we visualize how specific land units transitioned from one class to another, providing a clear picture of the region's environmental evolution.
 
@@ -195,5 +195,5 @@ Based on the multi-temporal analysis of **Sentinel-2** imagery and geoprocessing
 *  **Specialist** at [Uzcosmos Agency](https://uzspace.uz/uz)
 *  **Focus:** LULC Analysis & GIS Mapping
 ### 🌐 Contact
-[![Telegram](https://img.shields.io/badge/Telegram-Lichka-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sinofa23)
+[![Telegram](https://img.shields.io/badge/Telegram-Personal-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sinofa23)
 [![Email](https://img.shields.io/badge/Email-sf.normatov23@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sf.normatov23@gmail.com)
