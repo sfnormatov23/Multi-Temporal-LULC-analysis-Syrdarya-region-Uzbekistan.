@@ -90,7 +90,7 @@ While visual maps provide a spatial overview, quantitative data is essential for
 
 ### 📋 Detailed Area Statistics
 Based on the geoprocessing results from **ArcGIS Pro**, the following table summarizes the changes in the Syrdarya Region:
-
+<div align="center">
 | LULC Class | 2017 Area (Ha) | 2024 Area (Ha) | Change (%) | Trend |
 | :--- | :---: | :---: | :---: | :---: |
 | 🔴 **Built Area** | 41,841.5 | 49,212.9 | **+17.6%** | 📈 Increase |
@@ -100,6 +100,7 @@ Based on the geoprocessing results from **ArcGIS Pro**, the following table summ
 | 🌱 **Flooded Veg** | 1,849.2 | 1,731.8 | -6.3% | 📉 Decrease |
 | 🌳 **Trees** | 1,327.3 | 1,029.3 | -22.4% | 📉 Decrease |
 | 🏜️ **Bare Ground** | 1,444.6 | 3,329.7 | +130.5% | 📈 Increase |
+</div>
 
 ### 🔍 Scientific Interpretation of Findings
 
