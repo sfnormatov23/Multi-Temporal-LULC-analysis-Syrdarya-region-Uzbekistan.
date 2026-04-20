@@ -189,24 +189,11 @@ Based on the multi-temporal analysis of **Sentinel-2** imagery and geoprocessing
 3.  **Zhu, Z., & Woodcock, C. E. (2014).** *Continuous change detection and classification of land cover using Sentinel and Landsat data.*
 
 ---
-
-## 👨‍🔬 Developed by
-
+## 👨‍💻 Developed by
 **Sirojiddin Fazliddin o'g'li Normatov**
-*GIS Specialist & Remote Sensing Researcher*
-
----
-
-* 🛰️ **Specialist** at [Uzcosmos](https://uzcosmos.uz)
-* 🎓 **Researcher** at Tashkent State Technical University (TSTU)
-* 🔍 **Focus:** Satellite Imagery & Spatial Analysis
-
-### 🌐 Contact & Socials
-[![Telegram](https://img.shields.io/badge/Telegram-Geotalqin-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Geotalqin)
-[![GitHub](https://img.shields.io/badge/GitHub-Sirojiddin--GIS-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sirojiddin-GIS)
+*Student at Tashkent State Technical University (TSTU)*
+*  **Specialist** at [Uzcosmos Agency](https://uzspace.uz/uz)
+*  **Focus:** LULC Analysis & GIS Mapping
+### 🌐 Contact
+[![Telegram](https://img.shields.io/badge/Telegram-Lichka-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sinofa23)
 [![Email](https://img.shields.io/badge/Email-sf.normatov23@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sf.normatov23@gmail.com)
-
----
-<p align="center">
-  <i>"Leveraging Space Technology for Sustainable Land Management."</i>
-</p>
