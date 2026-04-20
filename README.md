@@ -1,4 +1,4 @@
-# Spatio-Temporal Analysis of LULC: Syrdarya Region (2017–2024)
+# Spatio-Temporal Analysis of Land Use and Land Cover (LULC) Dynamics: Syrdarya Region (2017–2024)
 
 ## Study Area and Geographic Setting
 
@@ -6,7 +6,7 @@ The success of any geospatial analysis depends on a clearly defined study area. 
 
 ---
 
-### 🗺️ Study Area Visualization
+### Study Area Visualization
 <p align="center">
 <img src="images/Study%20Area.jpg" width="100%" alt="Syrdarya Study Area Map">
   <br>
@@ -15,14 +15,14 @@ The success of any geospatial analysis depends on a clearly defined study area. 
 
 ---
 
-### 🌍 Geographic Overview
+### Geographic Overview
 Syrdarya region is situated in the central part of Uzbekistan, on the left bank of the **Syr Darya River**. It serves as a vital corridor connecting the Fergana Valley with the rest of the country.
 
-* **📏 Total Area:** Approximately **4,280 km²**.
-* **🏛️ Administrative Structure:** The region consists of **11 administrative districts** (Akaltyn, Bayaut, Gulistan, Mirzaabad, Sayhunabad, Sardoba, Syrdarya, Khavast, Boyovut, and others) and the regional center—**Gulistan city**.
-* **📈 Significance:** While the economy is historically based on agriculture (cotton, grain, and melons), the period between **2017 and 2024** has shown a significant shift toward rapid industrialization.
+* **Total Area:** Approximately **4,280 km²**.
+* **Administrative Structure:** The region consists of **11 administrative districts** (Akaltyn, Bayaut, Gulistan, Mirzaabad, Sayhunabad, Sardoba, Syrdarya, Khavast, Boyovut, and others) and the regional center—**Gulistan city**.
+* **Significance:** While the economy is historically based on agriculture (cotton, grain, and melons), the period between **2017 and 2024** has shown a significant shift toward rapid industrialization.
 
-### 🛠️ GIS Methodology for Site Characterization
+### GIS Methodology for Site Characterization
 The map above was developed using **ArcGIS Pro** to establish the spatial baseline for the LULC (Land Use and Land Cover) analysis:
 
 1.  **Vector Data Integration:** Administrative boundaries were sourced from the **National Cadastre Agency** database to ensure legal and spatial accuracy.
@@ -30,7 +30,7 @@ The map above was developed using **ArcGIS Pro** to establish the spatial baseli
 3.  **Visualization:** The central inset map focuses on **Gulistan city**, providing a high-resolution view of the urban fabric. This serves as the *"Ground Truth"* reference for identifying the **"Built Area"** class during satellite imagery classification.
 4.  **Cartographic Design:** Professional symbology distinguishes between administrative borders, transportation networks, and residential clusters for clear infrastructure interpretation.
 
-### 🔬 Why Syrdarya? (Research Motivation)
+### Why Syrdarya? (Research Motivation)
 According to the research, the Syrdarya region represents a critical **"socio-ecological laboratory."** * **Hydrology:** The presence of the Syr Darya river provides complex hydrological dynamics.
 * **Socioeconomics:** Proximity to **Tashkent (the capital)** drives intense socioeconomic pressure on land resources. 
 
@@ -42,7 +42,7 @@ This section presents the core findings of the land-use classification. By lever
 
 ---
 
-### 🗺️ Multi-Year Land Cover Comparison
+### Multi-Year Land Cover Comparison
 <p align="center">
   <img src="images/SYRDARYA1.jpg" width="100%" alt="LULC Dynamics 2017-2024">
   <br>
@@ -51,7 +51,7 @@ This section presents the core findings of the land-use classification. By lever
 
 ---
 
-### 🔍 Classification Methodology
+### Classification Methodology
 To ensure high thematic accuracy, the following workflow was implemented in **ArcGIS Pro**:
 
 1.  **Data Source:** High-resolution (10m) **Sentinel-2** imagery was utilized for its superior spectral bands, essential for distinguishing between subtle land cover types.
@@ -65,7 +65,7 @@ To ensure high thematic accuracy, the following workflow was implemented in **Ar
     * 🏜️ **Bare Ground:** Exposed soil and non-vegetated areas.
 3.  **Accuracy Assessment:** Post-classification cleaning was performed to remove "salt-and-pepper" noise, ensuring the maps reflect real-world geographical patterns.
 
-### 📈 Key Visual Observations
+### Key Visual Observations
 * **Urban Sprawl (Built Area):** A clear intensification of red pixels is visible around the central and southern districts. This confirms the **17.6% growth** in urban footprint mentioned in our statistical analysis.
 * **Agricultural Shift:** While **Crops** remain the dominant class (occupying the majority of the map), the spatial distribution shows fragmentation, especially in areas transitioning into built environments or rangelands.
 * **Hydrological Fluctuations:** The **Water** and **Flooded Vegetation** classes show dynamic shifts along the Syr Darya riverbanks, reflecting seasonal variations and regional water management policies during the study period.
@@ -79,7 +79,7 @@ While visual maps provide a spatial overview, quantitative data is essential for
 
 ---
 
-### 📉 LULC Class Distribution and Trends
+### LULC Class Distribution and Trends
 <p align="center">
 <img src="images/LULC_Statistical_Analysis_Chart.jpg" width="100%">
   <br>
@@ -88,7 +88,7 @@ While visual maps provide a spatial overview, quantitative data is essential for
 
 ---
 
-### 📋 Detailed Area Statistics
+### Detailed Area Statistics
 Based on the geoprocessing results from **ArcGIS Pro**, the following table summarizes the changes in the Syrdarya Region:
 <div align="center">
   
@@ -104,7 +104,7 @@ Based on the geoprocessing results from **ArcGIS Pro**, the following table summ
 
 </div>
 
-### 🔍 Scientific Interpretation of Findings
+### Scientific Interpretation of Findings
 
 1.  **Urbanization Dynamics (Built Area):** The most critical finding is the **7,371-hectare expansion** of Built Areas. This 17.6% growth is primarily driven by national housing programs and industrial zone developments (e.g., in Gulistan and Yangiyer). For the **National Cadastre Agency**, this necessitates rapid digital map updates to ensure accurate land taxation and infrastructure planning.
 
@@ -123,7 +123,7 @@ This section focuses on identifying the exact geographic locations where land co
 
 ---
 
-### 🗺️ Land Transformation Hotspots
+### Land Transformation Hotspots
 <p align="center">
   <img src="images/LULC_Change_Detection_Intersect.jpg" width="100%" alt="Intersect Analysis Map">
   <br>
@@ -132,7 +132,7 @@ This section focuses on identifying the exact geographic locations where land co
 
 ---
 
-### 🔍 Key Findings from Intersect Modeling
+### Key Findings from Intersect Modeling
 
 The intersect analysis allowed us to filter out stable land and focus specifically on the **Dynamics of Transformation**:
 
@@ -142,7 +142,7 @@ The intersect analysis allowed us to filter out stable land and focus specifical
 
 3.  **Hydrological Influence Zones:** Transformation hotspots are also concentrated along the **Syr Darya riverbanks**, where seasonal water level fluctuations and changes in irrigation infrastructure have modified the "Flooded Vegetation" and "Water" classes.
 
-### 🛠️ Technical Workflow
+### Technical Workflow
 * **Process:** Two temporal layers (2017 and 2024) were intersected to create a transition matrix.
 * **Output:** A specialized "Change Map" that serves as a decision-making tool for the **National Cadastre Agency** to prioritize regions for land re-classification and tax assessment updates.
 
@@ -155,7 +155,7 @@ The final stage of our spatial analysis involves tracing the "life cycle" of lan
 
 ---
 
-### 🌊 Year-to-Year Transformation Flow
+### Year-to-Year Transformation Flow
 <p align="center">
   <img src="images/LULC_Transition_Sankey_Diagram.png" width="100%" alt="Sankeymatic Flow Analysis">
   <br>
@@ -164,7 +164,7 @@ The final stage of our spatial analysis involves tracing the "life cycle" of lan
 
 ---
 
-### 🧬 Insights from Transformation Flows
+### Insights from Transformation Flows
 The Sankeymatic model reveals the underlying drivers of change in the Syrdarya Region:
 
 * **Agricultural-to-Urban Conversion:** A dominant flow is observed from **Crops** (2017) to **Built Area** (2024). This indicates that the 17.6% urban growth is directly replacing high-value irrigated lands.
@@ -173,7 +173,7 @@ The Sankeymatic model reveals the underlying drivers of change in the Syrdarya R
 
 ---
 
-## 📜 Conclusion
+## Conclusion
 
 Based on the multi-temporal analysis of **Sentinel-2** imagery and geoprocessing in **ArcGIS Pro**, the following conclusions are established:
 
@@ -183,14 +183,14 @@ Based on the multi-temporal analysis of **Sentinel-2** imagery and geoprocessing
 
 ---
 
-## 📚 References
+## References
 1.  **Congalton, R. G., & Green, K. (2019).** *Assessing the Accuracy of Remotely Sensed Data: Principles and Practices.*
 2.  **Esri (2024).** *Image Classification in ArcGIS Pro.* Environmental Systems Research Institute.
 3.  **Zhu, Z., & Woodcock, C. E. (2014).** *Continuous change detection and classification of land cover using Sentinel and Landsat data.*
 
 ---
-## 👨‍💻 Developed by
-**Sirojiddin Fazliddin o'g'li Normatov**
+## Developed by
+**Sirojiddin Normatov Fazliddin ugli**
 *Student at Tashkent State Technical University (TSTU)*
 *  **Specialist** at [Uzcosmos Agency](https://uzspace.uz/uz)
 *  **Focus:** LULC Analysis & GIS Mapping
