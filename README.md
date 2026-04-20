@@ -81,7 +81,7 @@ While visual maps provide a spatial overview, quantitative data is essential for
 
 ### 📉 LULC Class Distribution and Trends
 <p align="center">
-<img src="images/LULC%20Statistical%20Analysis%20Chart.png" width="600">
+<img src="images/LULC_Statistical_Analysis_Chart.jpg" width="600">
   <br>
   <b>Figure 3. Comparative statistical distribution of land cover areas (in hectares) for 2017 and 2024.</b>
 </p>
