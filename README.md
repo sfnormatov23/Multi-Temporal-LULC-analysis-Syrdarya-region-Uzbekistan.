@@ -115,3 +115,35 @@ Based on the geoprocessing results from **ArcGIS Pro**, the following table summ
 4.  **Hydrological Stability:** The slight increase in **Water** area (12.1%) is likely linked to improvements in irrigation reservoir management or seasonal overflow from the Syr Darya river during the 2024 observation window.
 
 > **Conclusion:** The quantitative data confirms that the Syrdarya region is transitioning from a purely agrarian landscape to a mixed urban-industrial region. This shift requires 80% faster monitoring cycles, which is now possible thanks to the **Sentinel-2 pipeline** established in this research.
+
+
+## 📍 Section 4: Spatial Intersect Analysis (Change Hotspots)
+
+This section focuses on identifying the exact geographic locations where land cover transitions were most intense. By using the **Intersect** tool in ArcGIS Pro, we overlaid the 2017 and 2024 maps to isolate areas of "Permanent Change."
+
+---
+
+### 🗺️ Land Transformation Hotspots
+<p align="center">
+  <img src="images/intersect.jpg" width="100%" alt="Intersect Analysis Map">
+  <br>
+  <b>Figure 4. Geographic distribution of land cover change hotspots in the Syrdarya Region (2017–2024).</b>
+</p>
+
+---
+
+### 🔍 Key Findings from Intersect Modeling
+
+The intersect analysis allowed us to filter out stable land and focus specifically on the **Dynamics of Transformation**:
+
+1.  **Urban Expansion Clusters:** The map highlights significant "Built-up" growth corridors, particularly surrounding **Gulistan city** and along the major transportation axes. These clusters represent the 17.6% increase in urban footprint identified in Section 3.
+  
+2.  **Agricultural Displacement:** Large swaths of former **Croplands** have been "intersected" by new residential and industrial developments. This spatial overlap confirms that urbanization is directly competing with the region's most productive soils.
+
+3.  **Hydrological Influence Zones:** Transformation hotspots are also concentrated along the **Syr Darya riverbanks**, where seasonal water level fluctuations and changes in irrigation infrastructure have modified the "Flooded Vegetation" and "Water" classes.
+
+### 🛠️ Technical Workflow
+* **Process:** Two temporal layers (2017 and 2024) were intersected to create a transition matrix.
+* **Output:** A specialized "Change Map" that serves as a decision-making tool for the **National Cadastre Agency** to prioritize regions for land re-classification and tax assessment updates.
+
+> **Scientific Significance:** While previous sections showed *what* changed, this Intersect analysis pinpointed the exact **GPS coordinates** of the change, making this research highly actionable for urban planners.
